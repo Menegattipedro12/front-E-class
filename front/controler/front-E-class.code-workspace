@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../API-E-class"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-E-class"
+	}
+}
